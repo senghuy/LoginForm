@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginForm</string>
+    <string name="lbget_started">Get Started</string>
+    <string name="lb_detail">Just a few detail to get you started</string>
+    <string name="lb_logo">Welcome to Achor Beer</string>
+    <string name="hlogin">Login</string>
+    <string name="rAgree">I agree to the Terms and Conditions</string>
+</resources>
